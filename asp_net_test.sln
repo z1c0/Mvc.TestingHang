@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp_net_test", "asp_net_test\asp_net_test.csproj", "{355D142F-215A-4283-9E98-B7EE0898AA44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp_net_test.test", "asp_net_test.test\asp_net_test.test.csproj", "{B76F1784-D347-4F94-831E-925D9928732E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355D142F-215A-4283-9E98-B7EE0898AA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355D142F-215A-4283-9E98-B7EE0898AA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355D142F-215A-4283-9E98-B7EE0898AA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355D142F-215A-4283-9E98-B7EE0898AA44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76F1784-D347-4F94-831E-925D9928732E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76F1784-D347-4F94-831E-925D9928732E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76F1784-D347-4F94-831E-925D9928732E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76F1784-D347-4F94-831E-925D9928732E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
